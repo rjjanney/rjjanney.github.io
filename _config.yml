@@ -1,2 +1,3 @@
 name: Randy Janney, Misanthrope
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
