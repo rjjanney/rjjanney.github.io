@@ -22,5 +22,5 @@ layout: feed
             <id>http://rjjanndy.github.io{{ post.id }}</id>
             <content type="html">{{ post.content | xml_escape }}</content>
         </entry>
-    {% endif %}
+    {% endfor %}
 </feed>
