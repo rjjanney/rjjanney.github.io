@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Randy Janney Launches GitHub IO Site"
 date: 2014-04-03
 ---
 
